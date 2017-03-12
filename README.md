@@ -1,4 +1,4 @@
-![krypto icon](https://raw.githubusercontent.com/sereneblue/krypto/master/icon.png?raw=true) # krypto
+#krypto
 
 ![krypto UI](https://raw.githubusercontent.com/sereneblue/krypto/master/ui.png?raw=true)
 
