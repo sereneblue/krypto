@@ -1,8 +1,6 @@
-#krypto
+#krypto - A cryptocurrency ticker homebrew for the Nintendo 3DS.
 
 ![krypto UI](https://raw.githubusercontent.com/sereneblue/krypto/master/ui.png?raw=true)
-
-A cryptocurrency ticker homebrew for the Nintendo 3DS.
 
 Supported Currencies:
 
