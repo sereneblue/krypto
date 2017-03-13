@@ -22,9 +22,9 @@ Prices automatically updated every 30 seconds.
 
 ###Credits
 
-	- xerpi for sftdlib and sf2dlib.
+	- xerpi for sftdlib and sf2dlib
 	- smealum, et. al for the great work on libctru
-	- Dave Gamble for the cJSON
-	- cryptocompare.com for the API.
-	- icons8.com a cool site to get free icons.
+	- Dave Gamble for the cJSON library
+	- cryptocompare.com for the API
+	- icons8.com a cool site to get free icons
 	- The League of Moveable Type for the Raleway font
