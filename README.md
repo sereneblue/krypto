@@ -1,4 +1,6 @@
-#krypto - A cryptocurrency ticker homebrew for the 3DS.
+# krypto
+
+A cryptocurrency ticker homebrew for the 3DS.
 
 ![krypto UI](https://raw.githubusercontent.com/sereneblue/krypto/master/ui.png?raw=true)
 
