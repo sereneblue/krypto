@@ -22,7 +22,7 @@ Fiat Currencies:
 
 Prices automatically updated every 30 seconds.
 
-###Credits
+### Credits
 
 	- xerpi for sftdlib and sf2dlib
 	- smealum, et. al for the great work on libctru
